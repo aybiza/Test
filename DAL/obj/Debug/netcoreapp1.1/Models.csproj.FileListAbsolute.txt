@@ -1,0 +1,6 @@
+D:\Profiles\gachgouche\Desktop\ApiAuthentification\ApiAuthentification\Models\bin\Debug\netcoreapp1.1\Models.deps.json
+D:\Profiles\gachgouche\Desktop\ApiAuthentification\ApiAuthentification\Models\bin\Debug\netcoreapp1.1\Models.dll
+D:\Profiles\gachgouche\Desktop\ApiAuthentification\ApiAuthentification\Models\bin\Debug\netcoreapp1.1\Models.pdb
+D:\Profiles\gachgouche\Desktop\ApiAuthentification\ApiAuthentification\Models\obj\Debug\netcoreapp1.1\Models.AssemblyInfo.cs
+D:\Profiles\gachgouche\Desktop\ApiAuthentification\ApiAuthentification\Models\obj\Debug\netcoreapp1.1\Models.dll
+D:\Profiles\gachgouche\Desktop\ApiAuthentification\ApiAuthentification\Models\obj\Debug\netcoreapp1.1\Models.pdb

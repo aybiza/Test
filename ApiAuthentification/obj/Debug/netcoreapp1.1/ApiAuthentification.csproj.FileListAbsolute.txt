@@ -1,0 +1,13 @@
+D:\Profiles\gachgouche\Desktop\ApiAuthentification\ApiAuthentification\ApiAuthentification\bin\Debug\netcoreapp1.1\ApiAuthentification.deps.json
+D:\Profiles\gachgouche\Desktop\ApiAuthentification\ApiAuthentification\ApiAuthentification\bin\Debug\netcoreapp1.1\ApiAuthentification.runtimeconfig.json
+D:\Profiles\gachgouche\Desktop\ApiAuthentification\ApiAuthentification\ApiAuthentification\bin\Debug\netcoreapp1.1\ApiAuthentification.runtimeconfig.dev.json
+D:\Profiles\gachgouche\Desktop\ApiAuthentification\ApiAuthentification\ApiAuthentification\bin\Debug\netcoreapp1.1\ApiAuthentification.dll
+D:\Profiles\gachgouche\Desktop\ApiAuthentification\ApiAuthentification\ApiAuthentification\bin\Debug\netcoreapp1.1\ApiAuthentification.pdb
+D:\Profiles\gachgouche\Desktop\ApiAuthentification\ApiAuthentification\ApiAuthentification\bin\Debug\netcoreapp1.1\DAL.dll
+D:\Profiles\gachgouche\Desktop\ApiAuthentification\ApiAuthentification\ApiAuthentification\bin\Debug\netcoreapp1.1\Models.dll
+D:\Profiles\gachgouche\Desktop\ApiAuthentification\ApiAuthentification\ApiAuthentification\bin\Debug\netcoreapp1.1\DAL.pdb
+D:\Profiles\gachgouche\Desktop\ApiAuthentification\ApiAuthentification\ApiAuthentification\bin\Debug\netcoreapp1.1\Models.pdb
+D:\Profiles\gachgouche\Desktop\ApiAuthentification\ApiAuthentification\ApiAuthentification\obj\Debug\netcoreapp1.1\ApiAuthentification.csprojResolveAssemblyReference.cache
+D:\Profiles\gachgouche\Desktop\ApiAuthentification\ApiAuthentification\ApiAuthentification\obj\Debug\netcoreapp1.1\ApiAuthentification.AssemblyInfo.cs
+D:\Profiles\gachgouche\Desktop\ApiAuthentification\ApiAuthentification\ApiAuthentification\obj\Debug\netcoreapp1.1\ApiAuthentification.dll
+D:\Profiles\gachgouche\Desktop\ApiAuthentification\ApiAuthentification\ApiAuthentification\obj\Debug\netcoreapp1.1\ApiAuthentification.pdb
